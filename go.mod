@@ -1,3 +1,3 @@
-module github.com/forestryio/hugo-theme-novela
+module github.com/hdevilbiss/hugo-theme-novela
 
-go 1.13
+go 1.15
